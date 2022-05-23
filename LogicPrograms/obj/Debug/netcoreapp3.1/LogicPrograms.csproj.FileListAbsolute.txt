@@ -1,0 +1,13 @@
+C:\Users\dexter\source\repos\ProductApi\LogicPrograms\bin\Debug\netcoreapp3.1\LogicPrograms.exe
+C:\Users\dexter\source\repos\ProductApi\LogicPrograms\bin\Debug\netcoreapp3.1\LogicPrograms.deps.json
+C:\Users\dexter\source\repos\ProductApi\LogicPrograms\bin\Debug\netcoreapp3.1\LogicPrograms.runtimeconfig.json
+C:\Users\dexter\source\repos\ProductApi\LogicPrograms\bin\Debug\netcoreapp3.1\LogicPrograms.runtimeconfig.dev.json
+C:\Users\dexter\source\repos\ProductApi\LogicPrograms\bin\Debug\netcoreapp3.1\LogicPrograms.dll
+C:\Users\dexter\source\repos\ProductApi\LogicPrograms\bin\Debug\netcoreapp3.1\LogicPrograms.pdb
+C:\Users\dexter\source\repos\ProductApi\LogicPrograms\obj\Debug\netcoreapp3.1\LogicPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dexter\source\repos\ProductApi\LogicPrograms\obj\Debug\netcoreapp3.1\LogicPrograms.AssemblyInfoInputs.cache
+C:\Users\dexter\source\repos\ProductApi\LogicPrograms\obj\Debug\netcoreapp3.1\LogicPrograms.AssemblyInfo.cs
+C:\Users\dexter\source\repos\ProductApi\LogicPrograms\obj\Debug\netcoreapp3.1\LogicPrograms.csproj.CoreCompileInputs.cache
+C:\Users\dexter\source\repos\ProductApi\LogicPrograms\obj\Debug\netcoreapp3.1\LogicPrograms.dll
+C:\Users\dexter\source\repos\ProductApi\LogicPrograms\obj\Debug\netcoreapp3.1\LogicPrograms.pdb
+C:\Users\dexter\source\repos\ProductApi\LogicPrograms\obj\Debug\netcoreapp3.1\LogicPrograms.genruntimeconfig.cache

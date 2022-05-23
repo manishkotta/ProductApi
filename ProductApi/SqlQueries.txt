@@ -1,0 +1,29 @@
+﻿
+// 1
+SELECT * FROM Customer WHERE Name like 'joe%';
+
+// 2
+SELECT p.Name from CUSTOMER c JOIN 
+Order o on c.CustomerId == o.CustomerId
+JOIN OrderProduct op on op.OrderId == o.OrderId
+JOIN Product p on p.ProductId == op.ProductId
+
+Where c.Name == 'Joe' AND o.CreateAt > '11/1/2016'
+
+// 3
+SELECT Sum(p.Price) from CUSTOMER c JOIN 
+Order o on c.CustomerId == o.CustomerId
+JOIN OrderProduct op on op.OrderId == o.OrderId
+JOIN Product p on p.ProductId == op.ProductId
+
+Where c.Name = 'Joe'
+
+// 4
+SELECT c.Name, Count(o.Orders) as orderCount from CUSTOMER c JOIN 
+Order o on c.CustomerId == o.CustomerId
+JOIN OrderProduct op on op.OrderId == o.OrderId
+JOIN Product p on p.ProductId == op.ProductId
+
+GROUP BY c.Name
+HAVING orderCount > 2
+
